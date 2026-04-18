@@ -47,11 +47,11 @@ The goal of this analysis is to:
 
 ## 🔍 Key Insights
 
-- Houses generally have larger areas compared to apartments  
-- Newer properties tend to have more standardized sizes  
-- Property prices strongly correlate with area  
-- Apartments dominate in modern construction periods  
-- Significant variation exists across locations  
+- Property price shows a strong positive correlation with area, indicating size as a key pricing factor
+- Apartments dominate in recent construction periods, suggesting urbanization trends
+- Houses tend to have wider price dispersion compared to apartments
+- Newer properties show more standardized sizes, while older ones vary significantly
+- Significant regional differences highlight the impact of location on property characteristics
 
 ---
 
