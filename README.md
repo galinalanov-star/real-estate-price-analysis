@@ -21,8 +21,8 @@ The analysis focuses on understanding key factors that influence property prices
 </p>
 
 <p align="center">
-  <img src="images/house_area_distribution_top_locations.png" width="400">
   <img src="images/average_area_by_price.png" width="400">
+  <img src="images/house_area_distribution_top_locations.png" width="400">
 </p>
 
 ## 🎯 Project Goal
