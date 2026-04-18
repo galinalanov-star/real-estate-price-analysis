@@ -11,17 +11,16 @@ The analysis focuses on understanding key factors that influence property prices
 </p>
 
 <p align="center">
-  <img src="images/relatives_on_board_distribution.png" width="400">
   <img src="images/scatter_area_vs_year.png" width="400">
+  <img src="images/house_area_vs_year_by_type.png" width="400">
 </p>
 
 <p align="center">
-  <img src="images/house_area_vs_year_by_type.png" width="400">
+  <img src="images/avg_area_by_price_group.png" width="400">
   <img src="images/property_count_by_construction_period.png" width="400">
 </p>
 
 <p align="center">
-  <img src="images/average_area_by_price.png" width="400">
   <img src="images/house_area_distribution_top_locations.png" width="400">
 </p>
 
