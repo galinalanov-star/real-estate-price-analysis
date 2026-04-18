@@ -23,8 +23,7 @@ The analysis focuses on understanding key factors that influence property prices
 </p>
 
 <p align="center">
-  <img src="images/property_count_by_construction_period.png" width="400">
-  <img src="images/house_area_distribution_top_locations.png" width="400">
+  <img src="images/house_area_distribution_top_locations.png" width="500">
 </p>
 
 ---
